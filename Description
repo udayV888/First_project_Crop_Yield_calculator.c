@@ -1,4 +1,4 @@
-# First_project_Crop_Yield_calculator.c
+# Simple_project_on_Crop_Yield_calculator.c
 
 This is a simple crop yield calculator implemented in C. It allows users to estimate the potential crop yield based on inputs such as field area, plant spacing, and average yield per plant. The calculator performs calculations to determine the number of plants that can be accommodated in the field and multiplies it by the average yield per plant to provide an estimated crop yield.
 
